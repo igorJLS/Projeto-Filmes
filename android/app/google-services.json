@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "441342198997",
+    "project_id": "projeto-filmes-be397",
+    "storage_bucket": "projeto-filmes-be397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441342198997:android:713dc0d121631e270d4e5c",
+        "android_client_info": {
+          "package_name": "com.example.projeto_filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441342198997-5nnppc46htak5j5apvbhvet0hikb6j7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projeto_filmes",
+            "certificate_hash": "8ae750a380f735a8fd6edd2fe4b822b43a0832a4"
+          }
+        },
+        {
+          "client_id": "441342198997-vh57he775kpuc33m15hv98p9e2tuv1vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1bdWZ_DYQlwTexYV4mYQQMZDmCZ4R_BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441342198997-vh57he775kpuc33m15hv98p9e2tuv1vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
